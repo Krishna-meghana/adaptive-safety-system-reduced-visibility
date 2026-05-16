@@ -1,0 +1,7 @@
+keras==3.12.1
+numpy==2.2.6
+opencv-python==4.13.0.92
+pyserial==3.5
+pyttsx3==2.99
+requests==2.33.0
+tensorflow==2.21.0
