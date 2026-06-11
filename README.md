@@ -5,7 +5,6 @@ Here is a structured, professional template tailored specifically for an IoT pro
 ```markdown
 # [Project Title: e.g., Adaptive Vehicle Safety System]
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Framework: Arduino/ESP-IDF](https://img.shields.io/badge/Framework-Arduino-blue.svg)](https://www.arduino.cc/)
 
 A brief, punchy 2-3 sentence description of what your project actually does. Mention the core problem it solves (e.g., "An edge-AI and sensor fusion prototype designed to assist drivers in low-visibility conditions by combining real-time computer vision with millimeter-wave radar detection.")
@@ -83,18 +82,19 @@ Before flashing the code, ensure you have the following installed:
  3. **Compile and Upload:**
    * Open src/main/main.ino in Arduino IDE.
    * Select **AI Thinker ESP32-CAM** as the board.
-   * Choose your COM port and hit **Upload**.
+   * Choose your COM port and hit **10**.
    * *Note: Disconnect GPIO 0 from GND and reset the board to switch to execution mode.*
 ## 📊 Results & Performance
  * **Model Accuracy:** Mention your CNN model's accuracy or size if applicable (e.g., 92% inference accuracy on-chip).
- * **Latency:** Inference time takes approximately XX ms.
- * **Radar Precision:** Reliable distance tracking up to X meters.
+ * **Training Accuracy** approximately 99.84%.
+ * **Validation Accuracy:** 99.23%.
 ## 👥 Project Team
- * **Your Name** - *Hardware Integration & Firmware Development* - @yourgithub
- * [Team Member Name] - *Role* - @theirgithub
+ * **V Krishna Meghana ** - @yourgithub
+ * **M Meghana ** - @yourgithub
+ * **M Sanjana ** - @yourgithub
+
+ * [Adaptive Vehicle System for Reduced Visibiltiy] - *Role* - @theirgithub
  * **Group Identifier:** Group E5
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 ```
 
 ---
