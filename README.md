@@ -29,21 +29,6 @@ A brief, punchy 2-3 sentence description of what your project actually does. Men
 *(Tip: Include a clean block diagram or circuit schematic here. You can upload an image to your repo and link it below).*
 
 
-```
-+------------------+             +-------------------+
-|                  |    UART     |                   |
-|    ESP32-CAM     |<----------->| HLK-LD2410B Radar |
-|                  |             |                   |
-+--------+---------+             +-------------------+
-|
-| GPIO / PWM
-v
-+------------------+
-|  Alert System    |
-| (Audio/Buzzer)   |
-+------------------+
-```
-
 ---
 
 ## 💻 Software & Logic Flow
