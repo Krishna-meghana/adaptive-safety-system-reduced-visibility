@@ -57,8 +57,7 @@ Before flashing the code, ensure you have the following installed:
 ### Installation & Flashing
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-   cd your-repo-name
+   git clone [https://github.com/Krishna-meghana/adaptive-safety-system-reduced-visibility.git]
 
 ```
  2. **Hardware Configuration:**
