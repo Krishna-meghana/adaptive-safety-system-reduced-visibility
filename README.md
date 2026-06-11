@@ -74,9 +74,9 @@ Before flashing the code, ensure you have the following installed:
  * **Training Accuracy** approximately 99.84%.
  * **Validation Accuracy:** 99.23%.
 ## 👥 Project Team
- * **V Krishna Meghana ** - @yourgithub
- * **M Meghana ** - @yourgithub
- * **M Sanjana ** - @yourgithub
+ * V Krishna Meghana  - https://github.com/Krishna-meghana
+ * M Meghana  - https://github.com/meghanamayiri-del
+ * M Sanjana  - @yourgithub
 
  * [Adaptive Vehicle System for Reduced Visibiltiy] - *Role* - @theirgithub
  * **Group Identifier:** Group E5
